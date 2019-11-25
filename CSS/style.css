@@ -21,6 +21,7 @@ img.fluid {
 <head>
   <link rel="stylesheet" href="animate.min.css">
 </head>
+<<<<<<< HEAD
 
 .jumbotron .h1, .jumbotron h1 {
   color: blue;
@@ -29,3 +30,5 @@ img.fluid {
 li {
     list-style-type: none;
 }
+=======
+>>>>>>> 6826a5e25981fa7f2087d40d8649cb0643b77349
