@@ -1,0 +1,42 @@
+.thirds {
+    width: 33%;
+    display: inline-block;
+}
+
+img.fluid {
+    width: 100%;
+}
+
+.quarters {
+    width: 24.75%;
+    display: inline-block;
+}
+
+.halves {
+    width: 49.75%;
+    display: inline-block;
+}
+
+.jumbotron{
+background-color: #FF0000
+}
+
+p, h1, h2 {
+  font-family: "Courier New", Times, serif;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.rotateimg270 {
+  -webkit-transform:rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
